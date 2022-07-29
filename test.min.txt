@@ -1,0 +1,2 @@
+[number-all]10[/]
+[1][name]微信[/name][download]https://gzc-download.weiyun.com/ftn_handler/020b6a83e9fe4cad718c4ba2586e91434aa3faf2322eefb2d159c73f593a141808cdf0c7a986d789f0e7adf3a5c2837e9495f7bcaeb946e95e0b6c34bad4ff31/Wechat_3.7.5.25_Green.7z?fname=Wechat_3.7.5.25_Green.7z&from=30013&version=3.3.3.3[/download][/1]
